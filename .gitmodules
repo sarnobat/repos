@@ -1,0 +1,3 @@
+[submodule "image_geotags_pipes_exif"]
+	path = image_geotags_pipes_exif
+	url = git@github.com:sarnobat/image_geotags_pipes_exif.git
