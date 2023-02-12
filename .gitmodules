@@ -1,3 +1,21 @@
 [submodule "image_geotags_pipes_exif"]
 	path = image_geotags_pipes_exif
 	url = git@github.com:sarnobat/image_geotags_pipes_exif.git
+[submodule "cream"]
+	path = cream
+	url = git@github.com:sarnobat/cream.git
+[submodule "coagulate"]
+	path = coagulate
+	url = git@github.com:sarnobat/coagulate.git
+[submodule "httpcat"]
+	path = httpcat
+	url = git@github.com:sarnobat/httpcat.git
+[submodule "html_tools"]
+	path = html_tools
+	url = git@github.com:sarnobat/html_tools.git
+[submodule "chrome_extension"]
+	path = chrome_extension
+	url = git@github.com:sarnobat/chrome_extension.git
+[submodule "chrome_extension_image_tab_click"]
+	path = chrome_extension_image_tab_click
+	url = git@github.com:sarnobat/chrome_extension_image_tab_click.git
