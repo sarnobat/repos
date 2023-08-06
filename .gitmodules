@@ -19,3 +19,24 @@
 [submodule "chrome_extension_image_tab_click"]
 	path = chrome_extension_image_tab_click
 	url = git@github.com:sarnobat/chrome_extension_image_tab_click.git
+[submodule "golang"]
+	path = golang
+	url = git@github.com:sarnobat/golang.git
+[submodule "templates"]
+	path = templates
+	url = git@github.com:sarnobat/templates.git
+[submodule "binaries"]
+	path = binaries
+	url = git@github.com:sarnobat/binaries.git
+[submodule "graalvm_aotc_java"]
+	path = graalvm_aotc_java
+	url = git@github.com:sarnobat/graalvm_aotc_java.git
+[submodule "jmx_programmatic_non_master"]
+	path = jmx_programmatic_non_master
+	url = git@github.com:sarnobat/jmx_programmatic_non_master.git
+[submodule "yurl"]
+	path = yurl
+	url = git@github.com:sarnobat/yurl.git
+[submodule "java_dataflow_dependency_csv.2019"]
+	path = java_dataflow_dependency_csv.2019
+	url = git@github.com:sarnobat/java_dataflow_dependency_csv.2019.git
