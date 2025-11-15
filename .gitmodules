@@ -40,3 +40,249 @@
 [submodule "java_dataflow_dependency_csv.2019"]
 	path = java_dataflow_dependency_csv.2019
 	url = git@github.com:sarnobat/java_dataflow_dependency_csv.2019.git
+[submodule "youtube-playlists"]
+	path = youtube-playlists
+	url = git@github.com:sarnobat/youtube-playlists.git
+[submodule "imperial_college_2001-2004"]
+	path = imperial_college_2001-2004
+	url = git@github.com:sarnobat/imperial_college_2001-2004.git
+[submodule "groovy_libraries"]
+	path = groovy_libraries
+	url = git@github.com:sarnobat/groovy_libraries.git
+[submodule "kml"]
+	path = kml
+	url = git@github.com:sarnobat/kml.git
+[submodule "csv_tools"]
+	path = csv_tools
+	url = git@github.com:sarnobat/csv_tools.git
+[submodule "vim_distros"]
+	path = vim_distros
+	url = git@github.com:sarnobat/vim_distros.git
+[submodule "github_workflow_action_tutorial.2022"]
+	path = github_workflow_action_tutorial.2022
+	url = git@github.com:sarnobat/github_workflow_action_tutorial.2022.git
+[submodule "github_workflow_action_tutorial"]
+	path = github_workflow_action_tutorial
+	url = git@github.com:sarnobat/github_workflow_action_tutorial.git
+[submodule "repos"]
+	path = repos
+	url = git@github.com:sarnobat/repos.git
+[submodule "java_aotc_graal_helloworld.2020"]
+	path = java_aotc_graal_helloworld.2020
+	url = git@github.com:sarnobat/java_aotc_graal_helloworld.2020.git
+[submodule "java_callgraph_csv.2018"]
+	path = java_callgraph_csv.2018
+	url = git@github.com:sarnobat/java_callgraph_csv.2018.git
+[submodule "logging_configuration"]
+	path = logging_configuration
+	url = git@github.com:sarnobat/logging_configuration.git
+[submodule "fuse-java-helloworld-not-groovy"]
+	path = fuse-java-helloworld-not-groovy
+	url = git@github.com:sarnobat/fuse-java-helloworld-not-groovy.git
+[submodule "websocket"]
+	path = websocket
+	url = git@github.com:sarnobat/websocket.git
+[submodule "cgi"]
+	path = cgi
+	url = git@github.com:sarnobat/cgi.git
+[submodule "fuse_bash"]
+	path = fuse_bash
+	url = git@github.com:sarnobat/fuse_bash.git
+[submodule "vms_virtual_machihes"]
+	path = vms_virtual_machihes
+	url = git@github.com:sarnobat/vms_virtual_machihes.git
+[submodule "DEPRECATED_gitbook"]
+	path = DEPRECATED_gitbook
+	url = git@github.com:sarnobat/DEPRECATED_gitbook.git
+[submodule "sample"]
+	path = sample
+	url = git@github.com:sarnobat/sample.git
+[submodule "objectivity_db_hello_world_cpp"]
+	path = objectivity_db_hello_world_cpp
+	url = git@github.com:sarnobat/objectivity_db_hello_world_cpp.git
+[submodule "DEPRECATED_groovy-jersey-jaxrs"]
+	path = DEPRECATED_groovy-jersey-jaxrs
+	url = git@github.com:sarnobat/DEPRECATED_groovy-jersey-jaxrs.git
+[submodule "java_callgraph_csv.2016"]
+	path = java_callgraph_csv.2016
+	url = git@github.com:sarnobat/java_callgraph_csv.2016.git
+[submodule "java_callgraph_v1"]
+	path = java_callgraph_v1
+	url = git@github.com:sarnobat/java_callgraph_v1.git
+[submodule "java_variableflow_csv.2017"]
+	path = java_variableflow_csv.2017
+	url = git@github.com:sarnobat/java_variableflow_csv.2017.git
+[submodule "apps_linux"]
+	path = apps_linux
+	url = git@github.com:sarnobat/apps_linux.git
+[submodule "http-image-server"]
+	path = http-image-server
+	url = git@github.com:sarnobat/http-image-server.git
+[submodule "cython"]
+	path = cython
+	url = git@github.com:sarnobat/cython.git
+[submodule "iphone_swift_hellworld"]
+	path = iphone_swift_hellworld
+	url = git@github.com:sarnobat/iphone_swift_hellworld.git
+[submodule "count-org-loc"]
+	path = count-org-loc
+	url = git@github.com:sarnobat/count-org-loc.git
+[submodule "gmail"]
+	path = gmail
+	url = git@github.com:sarnobat/gmail.git
+[submodule "tomcat_full_forked"]
+	path = tomcat_full_forked
+	url = git@github.com:sarnobat/tomcat_full_forked.git
+[submodule "eclipse"]
+	path = eclipse
+	url = git@github.com:sarnobat/eclipse.git
+[submodule "fuse-gedcom"]
+	path = fuse-gedcom
+	url = git@github.com:sarnobat/fuse-gedcom.git
+[submodule "ucsc_2023-06-Machine_learning"]
+	path = ucsc_2023-06-Machine_learning
+	url = git@github.com:sarnobat/ucsc_2023-06-Machine_learning.git
+[submodule "goiv"]
+	path = goiv
+	url = git@github.com:sarnobat/goiv.git
+[submodule "mahout"]
+	path = mahout
+	url = git@github.com:sarnobat/mahout.git
+[submodule "log4j"]
+	path = log4j
+	url = git@github.com:sarnobat/log4j.git
+[submodule "pivot_apps"]
+	path = pivot_apps
+	url = git@github.com:sarnobat/pivot_apps.git
+[submodule "gwt"]
+	path = gwt
+	url = git@github.com:sarnobat/gwt.git
+[submodule "xcode_c_helloworld"]
+	path = xcode_c_helloworld
+	url = git@github.com:sarnobat/xcode_c_helloworld.git
+[submodule "vlc_module"]
+	path = vlc_module
+	url = git@github.com:sarnobat/vlc_module.git
+[submodule "flex_bison"]
+	path = flex_bison
+	url = git@github.com:sarnobat/flex_bison.git
+[submodule "tldr"]
+	path = tldr
+	url = git@github.com:sarnobat/tldr.git
+[submodule "google_maps"]
+	path = google_maps
+	url = git@github.com:sarnobat/google_maps.git
+[submodule "minix"]
+	path = minix
+	url = git@github.com:sarnobat/minix.git
+[submodule "angular-rest-json"]
+	path = angular-rest-json
+	url = git@github.com:sarnobat/angular-rest-json.git
+[submodule "maven_executable_jar"]
+	path = maven_executable_jar
+	url = git@github.com:sarnobat/maven_executable_jar.git
+[submodule "maven_project"]
+	path = maven_project
+	url = git@github.com:sarnobat/maven_project.git
+[submodule "amazon_products"]
+	path = amazon_products
+	url = git@github.com:sarnobat/amazon_products.git
+[submodule "dynamodb-java-helloworld"]
+	path = dynamodb-java-helloworld
+	url = git@github.com:sarnobat/dynamodb-java-helloworld.git
+[submodule "webdav-tomcat-embedded"]
+	path = webdav-tomcat-embedded
+	url = git@github.com:sarnobat/webdav-tomcat-embedded.git
+[submodule "deprecated-webdav-server-tomcat-spring-boot"]
+	path = deprecated-webdav-server-tomcat-spring-boot
+	url = git@github.com:sarnobat/deprecated-webdav-server-tomcat-spring-boot.git
+[submodule "slideshow"]
+	path = slideshow
+	url = git@github.com:sarnobat/slideshow.git
+[submodule "solr_hello_world"]
+	path = solr_hello_world
+	url = git@github.com:sarnobat/solr_hello_world.git
+[submodule "plaintext_indexer.2018"]
+	path = plaintext_indexer.2018
+	url = git@github.com:sarnobat/plaintext_indexer.2018.git
+[submodule "webdav_client"]
+	path = webdav_client
+	url = git@github.com:sarnobat/webdav_client.git
+[submodule "google_drive_download"]
+	path = google_drive_download
+	url = git@github.com:sarnobat/google_drive_download.git
+[submodule "deprecated_webdav_helloworld"]
+	path = deprecated_webdav_helloworld
+	url = git@github.com:sarnobat/deprecated_webdav_helloworld.git
+[submodule "war_hello_world"]
+	path = war_hello_world
+	url = git@github.com:sarnobat/war_hello_world.git
+[submodule "aws_lambda"]
+	path = aws_lambda
+	url = git@github.com:sarnobat/aws_lambda.git
+[submodule "atleticomadridhistory"]
+	path = atleticomadridhistory
+	url = git@github.com:sarnobat/atleticomadridhistory.git
+[submodule "infinite_tabs"]
+	path = infinite_tabs
+	url = git@github.com:sarnobat/infinite_tabs.git
+[submodule "aws_simple_email_service"]
+	path = aws_simple_email_service
+	url = git@github.com:sarnobat/aws_simple_email_service.git
+[submodule "selecast_rss"]
+	path = selecast_rss
+	url = git@github.com:sarnobat/selecast_rss.git
+[submodule "md5_yurl"]
+	path = md5_yurl
+	url = git@github.com:sarnobat/md5_yurl.git
+[submodule "DEPRECATED_jersey_rest_server_no_client"]
+	path = DEPRECATED_jersey_rest_server_no_client
+	url = git@github.com:sarnobat/DEPRECATED_jersey_rest_server_no_client.git
+[submodule "gists_parent_repo"]
+	path = gists_parent_repo
+	url = git@github.com:sarnobat/gists_parent_repo.git
+[submodule "ccze"]
+	path = ccze
+	url = git@github.com:sarnobat/ccze.git
+[submodule "depot_parent"]
+	path = depot_parent
+	url = git@github.com:sarnobat/depot_parent.git
+[submodule "c"]
+	path = c
+	url = git@github.com:sarnobat/c.git
+[submodule "training"]
+	path = training
+	url = git@github.com:sarnobat/training.git
+[submodule "cpp_makefile_helloworld"]
+	path = cpp_makefile_helloworld
+	url = git@github.com:sarnobat/cpp_makefile_helloworld.git
+[submodule "sarnobat.github.io"]
+	path = sarnobat.github.io
+	url = git@github.com:sarnobat/sarnobat.github.io.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:sarnobat/kubernetes.git
+[submodule "javascript"]
+	path = javascript
+	url = git@github.com:sarnobat/javascript.git
+[submodule "chrome_headless_selenium"]
+	path = chrome_headless_selenium
+	url = git@github.com:sarnobat/chrome_headless_selenium.git
+[submodule "plaintext_tools_expo"]
+	path = plaintext_tools_expo
+	url = git@github.com:sarnobat/plaintext_tools_expo.git
+[submodule "docker_images"]
+	path = docker_images
+	url = git@github.com:sarnobat/docker_images.git
+[submodule "java_jdk_hello_world_version_features"]
+	path = java_jdk_hello_world_version_features
+	url = git@github.com:sarnobat/java_jdk_hello_world_version_features.git
+[submodule "python"]
+	path = python
+	url = git@github.com:sarnobat/python.git
+[submodule "csv2txt_tree"]
+	path = csv2txt_tree
+	url = git@github.com:sarnobat/csv2txt_tree.git
+[submodule "csv_tree"]
+	path = csv_tree
+	url = git@github.com:sarnobat/csv_tree.git
